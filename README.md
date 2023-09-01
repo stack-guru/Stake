@@ -6,10 +6,6 @@
 ### Installation
 * Note: This dApp was built and tested on the Avalanche chain but can be configured to run on other chains too. Edit the * hardhat.config.js file to switch blockchains
 
-## Setup
-* Clone the repository:
-```https://github.com/Olaaa30/StakeHolder/```
-
 ### Backend
 * Run ```cd StakeHolder-Contract```
 * `npm install`
